@@ -1,0 +1,6 @@
+com\example\jwt\JwtApplication.class
+com\example\jwt\config\SecurityConfig.class
+com\example\jwt\entity\User.class
+com\example\jwt\controller\UserController.class
+com\example\jwt\entity\Permission.class
+com\example\jwt\entity\Role.class
